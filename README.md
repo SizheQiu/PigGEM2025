@@ -1,2 +1,2 @@
-# iBTau
-Genome-scale metabolic model of Bos taurus
+# iSusS
+Genome-scale metabolic model of Sus Scrofa
