@@ -1,2 +1,2 @@
 # iSusS
-Genome-scale metabolic model of Sus Scrofa
+Genome-scale metabolic model of Porcine muscle-derived stem cell (sus scrofa).
