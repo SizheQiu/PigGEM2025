@@ -82500,6 +82500,17 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"R GROUP SYNTHESIS"
+},
+{
+"id":"EX_pydxn_e",
+"name":"Pyridoxine exchange",
+"metabolites":{
+"pydxn_e":-1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Extracellular exchange"
 }
 ],
 "genes":[
