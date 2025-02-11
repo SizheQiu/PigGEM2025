@@ -74201,7 +74201,7 @@
 "metabolites":{
 "na1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74212,7 +74212,7 @@
 "metabolites":{
 "ocdca_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74223,7 +74223,7 @@
 "metabolites":{
 "csn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74234,7 +74234,7 @@
 "metabolites":{
 "asn__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74245,7 +74245,7 @@
 "metabolites":{
 "ala__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74256,7 +74256,7 @@
 "metabolites":{
 "h2o_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74267,7 +74267,7 @@
 "metabolites":{
 "paf_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74278,7 +74278,7 @@
 "metabolites":{
 "ac_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74289,7 +74289,7 @@
 "metabolites":{
 "ak2lgchol_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74300,7 +74300,7 @@
 "metabolites":{
 "h_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74311,7 +74311,7 @@
 "metabolites":{
 "ahandrostanglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74322,7 +74322,7 @@
 "metabolites":{
 "cys__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74333,7 +74333,7 @@
 "metabolites":{
 "ser__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74344,7 +74344,7 @@
 "metabolites":{
 "gln__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74355,7 +74355,7 @@
 "metabolites":{
 "hco3_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74366,7 +74366,7 @@
 "metabolites":{
 "cl_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74377,7 +74377,7 @@
 "metabolites":{
 "lys__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74388,7 +74388,7 @@
 "metabolites":{
 "pro__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74399,7 +74399,7 @@
 "metabolites":{
 "34dhphe_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74410,7 +74410,7 @@
 "metabolites":{
 "fru_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74421,7 +74421,7 @@
 "metabolites":{
 "ocdcea_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74432,7 +74432,7 @@
 "metabolites":{
 "tyr__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74443,7 +74443,7 @@
 "metabolites":{
 "uri_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74454,7 +74454,7 @@
 "metabolites":{
 "sucr_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74465,7 +74465,7 @@
 "metabolites":{
 "glc__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74476,7 +74476,7 @@
 "metabolites":{
 "hom__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74487,7 +74487,7 @@
 "metabolites":{
 "nrpphr_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74498,7 +74498,7 @@
 "metabolites":{
 "gsn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74509,7 +74509,7 @@
 "metabolites":{
 "met__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74520,7 +74520,7 @@
 "metabolites":{
 "leu__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74531,7 +74531,7 @@
 "metabolites":{
 "5htrp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74542,7 +74542,7 @@
 "metabolites":{
 "estrones_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74553,7 +74553,7 @@
 "metabolites":{
 "cytd_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74564,7 +74564,7 @@
 "metabolites":{
 "ins_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74575,7 +74575,7 @@
 "metabolites":{
 "pchol_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74586,7 +74586,7 @@
 "metabolites":{
 "Rtotal2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74597,7 +74597,7 @@
 "metabolites":{
 "lpchol_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74608,7 +74608,7 @@
 "metabolites":{
 "adrnl_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74619,7 +74619,7 @@
 "metabolites":{
 "gal_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74630,7 +74630,7 @@
 "metabolites":{
 "thymd_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74641,7 +74641,7 @@
 "metabolites":{
 "dopa_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74652,7 +74652,7 @@
 "metabolites":{
 "ura_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74663,7 +74663,7 @@
 "metabolites":{
 "ps_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74674,7 +74674,7 @@
 "metabolites":{
 "pheme_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74685,7 +74685,7 @@
 "metabolites":{
 "10fthf5glu_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74696,7 +74696,7 @@
 "metabolites":{
 "10fthf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74707,7 +74707,7 @@
 "metabolites":{
 "glu__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74718,7 +74718,7 @@
 "metabolites":{
 "prostgf2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74729,7 +74729,7 @@
 "metabolites":{
 "tag_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74740,7 +74740,7 @@
 "metabolites":{
 "Rtotal3_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74751,7 +74751,7 @@
 "metabolites":{
 "dag_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74762,7 +74762,7 @@
 "metabolites":{
 "crn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74773,7 +74773,7 @@
 "metabolites":{
 "cholate_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74784,7 +74784,7 @@
 "metabolites":{
 "prostge1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74795,7 +74795,7 @@
 "metabolites":{
 "cit_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74806,7 +74806,7 @@
 "metabolites":{
 "gchola_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74817,7 +74817,7 @@
 "metabolites":{
 "hdca_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74828,7 +74828,7 @@
 "metabolites":{
 "urea_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74839,7 +74839,7 @@
 "metabolites":{
 "ser__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74850,7 +74850,7 @@
 "metabolites":{
 "prostge2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74861,7 +74861,7 @@
 "metabolites":{
 "acetone_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74872,7 +74872,7 @@
 "metabolites":{
 "10fthf6glu_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74883,7 +74883,7 @@
 "metabolites":{
 "gthrd_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74894,7 +74894,7 @@
 "metabolites":{
 "h2o2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74905,7 +74905,7 @@
 "metabolites":{
 "gthox_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74916,7 +74916,7 @@
 "metabolites":{
 "his__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74927,7 +74927,7 @@
 "metabolites":{
 "ca2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74938,7 +74938,7 @@
 "metabolites":{
 "nh4_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74949,7 +74949,7 @@
 "metabolites":{
 "pi_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74960,7 +74960,7 @@
 "metabolites":{
 "tchola_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74971,7 +74971,7 @@
 "metabolites":{
 "man_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74982,7 +74982,7 @@
 "metabolites":{
 "chol_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74993,7 +74993,7 @@
 "metabolites":{
 "hista_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75004,7 +75004,7 @@
 "metabolites":{
 "camp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75015,7 +75015,7 @@
 "metabolites":{
 "gdp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75026,7 +75026,7 @@
 "metabolites":{
 "gmp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75037,7 +75037,7 @@
 "metabolites":{
 "orn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75048,7 +75048,7 @@
 "metabolites":{
 "oh1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75059,7 +75059,7 @@
 "metabolites":{
 "oxa_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75070,7 +75070,7 @@
 "metabolites":{
 "k_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75081,7 +75081,7 @@
 "metabolites":{
 "cysi__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75092,7 +75092,7 @@
 "metabolites":{
 "nad_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75103,7 +75103,7 @@
 "metabolites":{
 "adprib_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75114,7 +75114,7 @@
 "metabolites":{
 "ncam_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75125,7 +75125,7 @@
 "metabolites":{
 "succ_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75136,7 +75136,7 @@
 "metabolites":{
 "idp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75147,7 +75147,7 @@
 "metabolites":{
 "imp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75158,7 +75158,7 @@
 "metabolites":{
 "bildglcur_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75169,7 +75169,7 @@
 "metabolites":{
 "thr__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75180,7 +75180,7 @@
 "metabolites":{
 "5dhf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75191,7 +75191,7 @@
 "metabolites":{
 "dhf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75202,7 +75202,7 @@
 "metabolites":{
 "for_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75213,7 +75213,7 @@
 "metabolites":{
 "ach_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75224,7 +75224,7 @@
 "metabolites":{
 "5mthf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75235,7 +75235,7 @@
 "metabolites":{
 "lipoate_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75246,7 +75246,7 @@
 "metabolites":{
 "arach_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75257,7 +75257,7 @@
 "metabolites":{
 "dhdascb_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75268,7 +75268,7 @@
 "metabolites":{
 "phe__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75279,7 +75279,7 @@
 "metabolites":{
 "gly_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75290,7 +75290,7 @@
 "metabolites":{
 "pe_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75301,7 +75301,7 @@
 "metabolites":{
 "adrn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75312,7 +75312,7 @@
 "metabolites":{
 "adp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75323,7 +75323,7 @@
 "metabolites":{
 "amp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75334,7 +75334,7 @@
 "metabolites":{
 "estradiolglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75345,7 +75345,7 @@
 "metabolites":{
 "btn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75356,7 +75356,7 @@
 "metabolites":{
 "ala__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75367,7 +75367,7 @@
 "metabolites":{
 "estriolglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75378,7 +75378,7 @@
 "metabolites":{
 "adn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75389,7 +75389,7 @@
 "metabolites":{
 "arg__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75400,7 +75400,7 @@
 "metabolites":{
 "ala_B_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75411,7 +75411,7 @@
 "metabolites":{
 "thf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75422,7 +75422,7 @@
 "metabolites":{
 "cgly_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75433,7 +75433,7 @@
 "metabolites":{
 "gtp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75444,7 +75444,7 @@
 "metabolites":{
 "bilglcur_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75455,7 +75455,7 @@
 "metabolites":{
 "dad_2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75466,7 +75466,7 @@
 "metabolites":{
 "din_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75477,7 +75477,7 @@
 "metabolites":{
 "ile__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75488,7 +75488,7 @@
 "metabolites":{
 "thyox__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75499,7 +75499,7 @@
 "metabolites":{
 "but_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75510,7 +75510,7 @@
 "metabolites":{
 "hxan_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75521,7 +75521,7 @@
 "metabolites":{
 "val__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75532,7 +75532,7 @@
 "metabolites":{
 "udp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75543,7 +75543,7 @@
 "metabolites":{
 "ump_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75554,7 +75554,7 @@
 "metabolites":{
 "malt_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75565,7 +75565,7 @@
 "metabolites":{
 "so4_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75576,7 +75576,7 @@
 "metabolites":{
 "glyb_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75587,7 +75587,7 @@
 "metabolites":{
 "glygn2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75598,7 +75598,7 @@
 "metabolites":{
 "glygn4_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75609,7 +75609,7 @@
 "metabolites":{
 "cmp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75620,7 +75620,7 @@
 "metabolites":{
 "crvnc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75631,7 +75631,7 @@
 "metabolites":{
 "thym_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75642,7 +75642,7 @@
 "metabolites":{
 "triodthy_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75653,7 +75653,7 @@
 "metabolites":{
 "trp__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75664,7 +75664,7 @@
 "metabolites":{
 "gam_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75675,7 +75675,7 @@
 "metabolites":{
 "acac_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75686,7 +75686,7 @@
 "metabolites":{
 "ha_pre1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75697,7 +75697,7 @@
 "metabolites":{
 "sel_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75708,7 +75708,7 @@
 "metabolites":{
 "dheas_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75719,7 +75719,7 @@
 "metabolites":{
 "35cgmp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75730,7 +75730,7 @@
 "metabolites":{
 "lac__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75741,7 +75741,7 @@
 "metabolites":{
 "asp__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75752,7 +75752,7 @@
 "metabolites":{
 "xyl__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75763,7 +75763,7 @@
 "metabolites":{
 "7dhf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75774,7 +75774,7 @@
 "metabolites":{
 "6dhf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75785,7 +75785,7 @@
 "metabolites":{
 "prostgd2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75796,7 +75796,7 @@
 "metabolites":{
 "2hb_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75807,7 +75807,7 @@
 "metabolites":{
 "4abut_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75818,7 +75818,7 @@
 "metabolites":{
 "biocyt_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75829,7 +75829,7 @@
 "metabolites":{
 "atp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75840,7 +75840,7 @@
 "metabolites":{
 "i_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75851,7 +75851,7 @@
 "metabolites":{
 "pyr_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75862,7 +75862,7 @@
 "metabolites":{
 "thmmp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75873,7 +75873,7 @@
 "metabolites":{
 "taur_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75884,7 +75884,7 @@
 "metabolites":{
 "7thf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75895,7 +75895,7 @@
 "metabolites":{
 "6thf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75906,7 +75906,7 @@
 "metabolites":{
 "utp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75917,7 +75917,7 @@
 "metabolites":{
 "pro__D_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75928,7 +75928,7 @@
 "metabolites":{
 "gua_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75939,7 +75939,7 @@
 "metabolites":{
 "srtn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75950,7 +75950,7 @@
 "metabolites":{
 "10fthf7glu_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75961,7 +75961,7 @@
 "metabolites":{
 "s2l2fn2m2masn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75972,7 +75972,7 @@
 "metabolites":{
 "fuc__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75983,7 +75983,7 @@
 "metabolites":{
 "s2l2n2m2masn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75994,7 +75994,7 @@
 "metabolites":{
 "lgnc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76005,7 +76005,7 @@
 "metabolites":{
 "pglyc_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76016,7 +76016,7 @@
 "metabolites":{
 "1glyc_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76027,7 +76027,7 @@
 "metabolites":{
 "inost_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76038,7 +76038,7 @@
 "metabolites":{
 "estroneglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76049,7 +76049,7 @@
 "metabolites":{
 "ha_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76060,7 +76060,7 @@
 "metabolites":{
 "chsterol_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76071,7 +76071,7 @@
 "metabolites":{
 "ade_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76082,7 +76082,7 @@
 "metabolites":{
 "5thf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76093,7 +76093,7 @@
 "metabolites":{
 "tststeroneglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76104,7 +76104,7 @@
 "metabolites":{
 "fol_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76115,7 +76115,7 @@
 "metabolites":{
 "tre_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76126,7 +76126,7 @@
 "metabolites":{
 "strch1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76137,7 +76137,7 @@
 "metabolites":{
 "strch2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76148,7 +76148,7 @@
 "metabolites":{
 "akg_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76159,7 +76159,7 @@
 "metabolites":{
 "lac__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76170,7 +76170,7 @@
 "metabolites":{
 "tsul_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76181,7 +76181,7 @@
 "metabolites":{
 "thm_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76192,7 +76192,7 @@
 "metabolites":{
 "ksi_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76203,7 +76203,7 @@
 "metabolites":{
 "ksi_deg1_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76214,7 +76214,7 @@
 "metabolites":{
 "mag_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76225,7 +76225,7 @@
 "metabolites":{
 "glyc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76236,7 +76236,7 @@
 "metabolites":{
 "malttr_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76247,7 +76247,7 @@
 "metabolites":{
 "xolest2_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76258,7 +76258,7 @@
 "metabolites":{
 "lcts_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76269,7 +76269,7 @@
 "metabolites":{
 "leuktrC4_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76280,7 +76280,7 @@
 "metabolites":{
 "5adtststeroneglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76291,7 +76291,7 @@
 "metabolites":{
 "nrvnc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76302,7 +76302,7 @@
 "metabolites":{
 "andrstrnglc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76313,7 +76313,7 @@
 "metabolites":{
 "glygn5_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76324,7 +76324,7 @@
 "metabolites":{
 "5fthf_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76335,7 +76335,7 @@
 "metabolites":{
 "o2s_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76346,7 +76346,7 @@
 "metabolites":{
 "o2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76357,7 +76357,7 @@
 "metabolites":{
 "pnto__R_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76368,7 +76368,7 @@
 "metabolites":{
 "bilirub_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76379,7 +76379,7 @@
 "metabolites":{
 "chtn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76390,7 +76390,7 @@
 "metabolites":{
 "acgam_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76401,7 +76401,7 @@
 "metabolites":{
 "nadp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76412,7 +76412,7 @@
 "metabolites":{
 "adprbp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76423,7 +76423,7 @@
 "metabolites":{
 "thmtp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76434,7 +76434,7 @@
 "metabolites":{
 "Tyr_ggn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76445,7 +76445,7 @@
 "metabolites":{
 "ascb__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76456,7 +76456,7 @@
 "metabolites":{
 "fe3_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76467,7 +76467,7 @@
 "metabolites":{
 "fe2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76478,7 +76478,7 @@
 "metabolites":{
 "creat_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76489,7 +76489,7 @@
 "metabolites":{
 "arachd_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76500,7 +76500,7 @@
 "metabolites":{
 "gluala_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76511,7 +76511,7 @@
 "metabolites":{
 "debrisoquine_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76522,7 +76522,7 @@
 "metabolites":{
 "Rtotal_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76533,7 +76533,7 @@
 "metabolites":{
 "asp__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76544,7 +76544,7 @@
 "metabolites":{
 "citr__L_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76555,7 +76555,7 @@
 "metabolites":{
 "CE1940_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76566,7 +76566,7 @@
 "metabolites":{
 "CE1943_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76577,7 +76577,7 @@
 "metabolites":{
 "sprm_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76588,7 +76588,7 @@
 "metabolites":{
 "CE1935_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76599,7 +76599,7 @@
 "metabolites":{
 "CE5867_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76610,7 +76610,7 @@
 "metabolites":{
 "CE5868_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76621,7 +76621,7 @@
 "metabolites":{
 "CE5869_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76632,7 +76632,7 @@
 "metabolites":{
 "CE5786_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76643,7 +76643,7 @@
 "metabolites":{
 "CE5789_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76654,7 +76654,7 @@
 "metabolites":{
 "maltpt_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76665,7 +76665,7 @@
 "metabolites":{
 "maltttr_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76676,7 +76676,7 @@
 "metabolites":{
 "hdcea_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76687,7 +76687,7 @@
 "metabolites":{
 "ttdca_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76698,7 +76698,7 @@
 "metabolites":{
 "spmd_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76709,7 +76709,7 @@
 "metabolites":{
 "CE1939_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76720,7 +76720,7 @@
 "metabolites":{
 "CE5797_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76731,7 +76731,7 @@
 "metabolites":{
 "CE5798_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76742,7 +76742,7 @@
 "metabolites":{
 "co2_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76753,7 +76753,7 @@
 "metabolites":{
 "CE1936_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76764,7 +76764,7 @@
 "metabolites":{
 "tcynt_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76775,7 +76775,7 @@
 "metabolites":{
 "CE2011_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76786,7 +76786,7 @@
 "metabolites":{
 "malthx_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76797,7 +76797,7 @@
 "metabolites":{
 "23cump_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76808,7 +76808,7 @@
 "metabolites":{
 "3ump_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76819,7 +76819,7 @@
 "metabolites":{
 "CE5854_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76830,7 +76830,7 @@
 "metabolites":{
 "CE1926_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76841,7 +76841,7 @@
 "metabolites":{
 "glcur_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76852,7 +76852,7 @@
 "metabolites":{
 "4hpro_LT_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76863,7 +76863,7 @@
 "metabolites":{
 "CE4633_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76874,7 +76874,7 @@
 "metabolites":{
 "CE5788_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76885,7 +76885,7 @@
 "metabolites":{
 "fad_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76896,7 +76896,7 @@
 "metabolites":{
 "fmn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76907,7 +76907,7 @@
 "metabolites":{
 "CE5853_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76918,7 +76918,7 @@
 "metabolites":{
 "CE1925_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76929,7 +76929,7 @@
 "metabolites":{
 "malthp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76940,7 +76940,7 @@
 "metabolites":{
 "CE2839_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76951,7 +76951,7 @@
 "metabolites":{
 "CE2838_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76962,7 +76962,7 @@
 "metabolites":{
 "C03958_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76973,7 +76973,7 @@
 "metabolites":{
 "5oxpro_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76984,7 +76984,7 @@
 "metabolites":{
 "CE5820_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76995,7 +76995,7 @@
 "metabolites":{
 "sphmyln_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -77006,7 +77006,7 @@
 "metabolites":{
 "cholp_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -77017,7 +77017,7 @@
 "metabolites":{
 "crm_psc_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -81858,6 +81858,35 @@
 "subsystem":"GLYCEROPHOSPHOLIPID METABOLISM"
 },
 {
+"id":"MI3PS",
+"name":"1D-myo-inositol-3-phosphate lyase (isomerizing)",
+"metabolites":{
+"g6p_c":-1,
+"mi3p__D_c":1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"INOSITOL PHOSPHATE METABOLISM"
+},
+{
+"id":"ADSS",
+"name":"Adenylosuccinate synthase",
+"metabolites":{
+"asp__L_c":-1,
+"dcamp_c":1,
+"gdp_c":1,
+"gtp_c":-1,
+"h_c":2.0,
+"imp_c":-1,
+"pi_c":1
+},
+"lower_bound":0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"NP_001090977_1 or NP_001090978_1 or XP_020937155_1 or XP_020937156_1",
+"subsystem":"NUCLEOTIDE INTERCONVERSION"
+},
+{
 "id":"ARTFR11_psc",
 "name":"R group artificial flux",
 "metabolites":{
@@ -82507,7 +82536,7 @@
 "metabolites":{
 "pydxn_e":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":-10.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -106784,6 +106813,22 @@
 },
 {
 "id":"XP_001926853_1",
+"name":""
+},
+{
+"id":"XP_020937155_1",
+"name":""
+},
+{
+"id":"XP_020937156_1",
+"name":""
+},
+{
+"id":"NP_001090977_1",
+"name":""
+},
+{
+"id":"NP_001090978_1",
 "name":""
 }
 ],
