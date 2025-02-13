@@ -23264,19 +23264,6 @@
 "subsystem":"Carnitine shuttle"
 },
 {
-"id":"ACACT1r_copy2",
-"name":"Acetyl-CoA C-acetyltransferase",
-"metabolites":{
-"aacoa_c":1,
-"accoa_c":-2.0,
-"coa_c":1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_001928380_1",
-"subsystem":"Tryptophan metabolism"
-},
-{
 "id":"13DAMPPOX",
 "name":"1,3-Diaminopropane:oxygen oxidoreductase (deaminating)",
 "metabolites":{
@@ -27051,21 +27038,6 @@
 "subsystem":"Tyrosine metabolism"
 },
 {
-"id":"NNATr_copy2",
-"name":"Nicotinate-nucleotide adenylyltransferase",
-"metabolites":{
-"atp_c":-1,
-"dnad_c":1,
-"h_c":-1,
-"nicrnt_c":-1,
-"ppi_c":1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"23057_AT1 or XP_020925195_1 or XP_020925196_1 or XP_020925197_1 or XP_020950966_1 or XP_020950965_1 or XP_020950964_1 or XP_020950963_1 or XP_005659682_1 or XP_003480418_1 or XP_003480417_1 or XP_020929422_1 or XP_013848476_1 or XP_020950967_1 or XP_020919468_1 or XP_020919467_1 or XP_020919466_1 or XP_020919465_1 or XP_020919464_1 or XP_020919463_1 or XP_020919469_1 or XP_020919463_1 or XP_020919468_1 or XP_020919467_1 or XP_020919466_1 or XP_020919465_1 or XP_020919464_1 or XP_020919469_1 or XP_020925197_1 or XP_020950967_1 or XP_020925196_1 or XP_020925195_1",
-"subsystem":"NAD Metabolism"
-},
-{
 "id":"PRPPS",
 "name":"Phosphoribosylpyrophosphate synthetase",
 "metabolites":{
@@ -27659,22 +27631,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001230751_1 or 10327_AT2 or XP_020919735_1 or XP_020919734_1 or XP_013835806_1 or XP_013835805_1 or NP_001038033_2 or XP_020934157_1 or XP_020934156_1 or NP_001001539_1 or XP_020919727_1 or XP_020934351_1 or XP_020934350_1 or XP_020934349_1 or NP_001033715_2 or XP_020919736_1 or XP_013835807_2 or NP_001038034_1 or NP_001038083_1 or XP_013835808_1 or XP_005668293_1 or XP_005668289_1 or XP_005668288_1 or XP_005668287_1 or XP_020919737_1 or NP_001038035_1 or XP_020919738_1 or XP_020919739_1 or XP_020949153_1 or XP_020949157_1 or XP_020949156_1 or XP_020949154_1 or NP_999055_1 or NP_001001539_1",
 "subsystem":"Pyruvate Metabolism"
-},
-{
-"id":"FACOAL204_copy2",
-"name":"Fatty-acid--CoA ligase",
-"metabolites":{
-"amp_c":1,
-"arachd_c":-1,
-"arachdcoa_c":1,
-"atp_c":-1,
-"coa_c":-1,
-"ppi_c":1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"2182_AT1 or 22305_AT2 or 2181_AT1 or 22305_AT1 or XP_020930367_1 or XP_020930366_1 or XP_005671764_1 or XP_020930365_1 or XP_020930364_1 or XP_020930363_1 or XP_005671766_1 or XP_005671765_1 or NP_001161101_2 or XP_005661690_1 or XP_020940402_1 or XP_020940400_1 or XP_020940401_1 or XP_013850557_1 or XP_013850556_1 or XP_013850555_1 or XP_003354318_1 or XP_005661691_1 or NP_001182250_1 or XP_020927674_1 or XP_020927673_1 or XP_013845943_1 or XP_013845942_1 or XP_020930228_1 or XP_020930227_1 or XP_020930225_1 or NP_001137170_1 or XP_005673877_1 or XP_005673876_1 or XP_020935200_1 or XP_020935199_1 or XP_013841784_1 or XP_005673879_1 or XP_005673878_1 or NP_001033783_1 or XP_020935200_1 or XP_020935199_1 or XP_013841784_1 or XP_005673879_1 or XP_005673878_1 or NP_001033783_1 or XP_020930228_1 or XP_020930227_1 or XP_020930225_1 or NP_001137170_1 or XP_005673877_1 or XP_005673876_1",
-"subsystem":"Fatty acid activation"
 },
 {
 "id":"PPPGOm",
@@ -28656,20 +28612,6 @@
 "subsystem":"Keratan sulfate biosynthesis"
 },
 {
-"id":"PIt7_copy2",
-"name":"Phosphate transport in/out via three Na+ symporter",
-"metabolites":{
-"na1_c":3.0,
-"na1_e":-3.0,
-"pi_c":1,
-"pi_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020953973_1 or NP_999509_1 or XP_020953972_1 or XP_020953971_1 or XP_020953970_1 or XP_020953974_1 or XP_020954079_1 or XP_020954080_1 or XP_020954077_1 or XP_020954076_1 or XP_020954079_1 or XP_013832942_2 or XP_020954070_1 or XP_020954068_1 or XP_020954067_1 or XP_020954080_1 or XP_020954078_1 or XP_020954068_1 or XP_020954067_1 or XP_020954070_1 or XP_020954076_1 or XP_020954077_1 or XP_020953974_1 or XP_020954080_1 or XP_020954072_1 or XP_020954069_1 or XP_020954073_1 or XP_020954071_1 or XP_013832942_2 or XP_020954079_1 or XP_020954078_1 or XP_020954069_1 or XP_020954070_1 or XP_020954068_1 or XP_020954067_1 or XP_020954079_1 or XP_020954077_1 or XP_020954076_1 or XP_013832942_2 or XP_020954080_1 or XP_020954073_1 or XP_020954072_1 or XP_020954071_1 or XP_020954078_1",
-"subsystem":"Transport, Extracellular"
-},
-{
 "id":"C160CPT1",
 "name":"Carnitine O-palmitoyltransferase",
 "metabolites":{
@@ -29192,22 +29134,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001090989_1",
 "subsystem":"Urea cycle/amino group metabolism"
-},
-{
-"id":"FACOAL204_copy1",
-"name":"Fatty-acid--CoA ligase",
-"metabolites":{
-"amp_c":1,
-"arachd_c":-1,
-"arachdcoa_c":1,
-"atp_c":-1,
-"coa_c":-1,
-"ppi_c":1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020930367_1 or XP_020930366_1 or XP_005671764_1 or XP_020930365_1 or XP_020930364_1 or XP_020930363_1 or XP_005671766_1 or XP_005671765_1 or NP_001161101_2 or XP_005661690_1 or XP_020940402_1 or XP_020940400_1 or XP_020940401_1 or XP_013850557_1 or XP_013850556_1 or XP_013850555_1 or XP_003354318_1 or XP_005661691_1 or NP_001182250_1 or XP_020927674_1 or XP_020927673_1 or XP_013845943_1 or XP_013845942_1",
-"subsystem":"Fatty acid activation"
 },
 {
 "id":"SAMHISTA",
@@ -32763,18 +32689,6 @@
 "subsystem":"Arginine and Proline Metabolism"
 },
 {
-"id":"CRNt_copy2",
-"name":"L carnitine reversible transport",
-"metabolites":{
-"crn_c":1,
-"crn_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020932858_1 or XP_005661697_1 or XP_003123960_1 or XP_020941087_1 or XP_020941088_1 or XP_020941091_1 or XP_020941090_1 or XP_020941089_1 or XP_020941084_1 or XP_020941085_1 or XP_020941086_1 or XP_013850566_2 or XP_020941083_1 or XP_020941082_1 or XP_020941092_1 or NP_001139224_1",
-"subsystem":"Transport, Extracellular"
-},
-{
 "id":"ST6GALNAC28",
 "name":"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",
 "metabolites":{
@@ -33983,18 +33897,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_005661484_2 or XP_005661485_1 or NP_001137195_1 or XP_005665445_1 or XP_003128019_3 or XP_003133999_3 or XP_013840232_1 or XP_013840233_1 or XP_003483870_1 or XP_013840231_1 or XP_003128019_3 or XP_005665445_1 or XP_003133999_3 or XP_003483870_1 or XP_013840232_1 or XP_013840233_1 or XP_013840231_1 or 8611_AT1 or XP_003133999_3 or XP_013840232_1 or XP_013840233_1 or XP_003483870_1 or XP_013840231_1 or XP_005661485_1 or NP_001137195_1 or XP_005661484_2 or XP_005665445_1 or XP_003128019_3",
 "subsystem":"Triacylglycerol Synthesis"
-},
-{
-"id":"CRNt_copy1",
-"name":"L carnitine reversible transport",
-"metabolites":{
-"crn_c":1,
-"crn_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020932858_1 or XP_005661697_1 or NP_001139224_1 or XP_003123960_1 or XP_020941084_1 or XP_020941087_1 or XP_020941083_1 or XP_020941082_1 or XP_020941088_1 or XP_020941089_1 or XP_020941091_1 or XP_013850566_2 or XP_020941090_1 or XP_020941086_1 or XP_020941085_1 or XP_020941092_1",
-"subsystem":"Transport, Extracellular"
 },
 {
 "id":"ACS",
@@ -39715,21 +39617,6 @@
 "subsystem":"Tryptophan metabolism"
 },
 {
-"id":"G6PDH1er_copy1",
-"name":"Glucose-6-phosphate dehydrogenase, endoplasmic reticulum",
-"metabolites":{
-"6pgl_r":1,
-"g6p_r":-1,
-"h_r":1,
-"nad_r":-1,
-"nadh_r":1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020950947_1 or XP_020950946_1 or XP_020950945_1 or XP_020950944_1",
-"subsystem":"Pentose Phosphate Pathway"
-},
-{
 "id":"RTOTAL2CRNCPT1",
 "name":"Carnitine fatty-acyl transferase",
 "metabolites":{
@@ -41028,22 +40915,6 @@
 "subsystem":"Nucleotides"
 },
 {
-"id":"FACOAL226_copy1",
-"name":"Fatty-acid--CoA ligase",
-"metabolites":{
-"amp_c":1,
-"atp_c":-1,
-"c226coa_c":1,
-"coa_c":-1,
-"crvnc_c":-1,
-"ppi_c":1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020930367_1 or XP_020930366_1 or XP_005671764_1 or XP_020930365_1 or XP_020930364_1 or XP_020930363_1 or XP_005671766_1 or XP_005671765_1 or NP_001161101_2 or XP_005661690_1 or XP_020940402_1 or XP_020940400_1 or XP_020940401_1 or XP_013850557_1 or XP_013850556_1 or XP_013850555_1 or XP_003354318_1 or XP_005661691_1 or NP_001182250_1 or XP_020927674_1 or XP_020927673_1 or XP_013845943_1 or XP_013845942_1",
-"subsystem":"Fatty acid activation"
-},
-{
 "id":"GASNASE3ly",
 "name":"Glycosylasparaginase, lysosomal",
 "metabolites":{
@@ -41977,20 +41848,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001157986_1 or XP_020921709_1 or XP_020921710_1",
 "subsystem":"Transport, Mitochondrial"
-},
-{
-"id":"PIt7_copy1",
-"name":"Phosphate transport in/out via three Na+ symporter",
-"metabolites":{
-"na1_c":3.0,
-"na1_e":-3.0,
-"pi_c":1,
-"pi_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"NP_001243701_1 or XP_005666619_2 or XP_020938005_1 or NP_001038088_1 or XP_020936842_1 or XP_020936841_1 or XP_020936840_1 or XP_020936839_1 or XP_020936845_1 or XP_020936844_1 or XP_020936843_1 or XP_020937998_1 or XP_020936847_1 or XP_020936846_1 or XP_020936849_1 or XP_020938012_1 or XP_020938011_1 or XP_020938009_1 or XP_020938007_1 or NP_001038088_1 or XP_020937998_1 or XP_020938009_1 or XP_020938007_1 or XP_020938011_1 or XP_020938012_1 or XP_020938005_1 or XP_005666619_2 or NP_001243701_1 or XP_020936847_1 or XP_020936846_1 or XP_020936849_1 or XP_020936842_1 or XP_020936841_1 or XP_020936840_1 or XP_020936839_1 or XP_020936845_1 or XP_020936844_1 or XP_020936843_1",
-"subsystem":"Transport, Extracellular"
 },
 {
 "id":"UDPDOLPT_U",
@@ -43035,21 +42892,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020926706_1 or XP_020926705_1 or XP_020926704_1",
 "subsystem":"Methionine Metabolism"
-},
-{
-"id":"G6PDH1er_copy2",
-"name":"Glucose-6-phosphate dehydrogenase, endoplasmic reticulum",
-"metabolites":{
-"6pgl_r":1,
-"g6p_r":-1,
-"h_r":1,
-"nad_r":-1,
-"nadh_r":1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020950947_1 or XP_020950946_1 or XP_020950945_1 or XP_020950944_1",
-"subsystem":"Pentose Phosphate Pathway"
 },
 {
 "id":"ACOAD8m",
@@ -45049,21 +44891,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020927993_1 or XP_020927997_1 or NP_001302557_1",
 "subsystem":"N-Glycan Degradation"
-},
-{
-"id":"NNATr_copy1",
-"name":"Nicotinate-nucleotide adenylyltransferase",
-"metabolites":{
-"atp_c":-1,
-"dnad_c":1,
-"h_c":-1,
-"nicrnt_c":-1,
-"ppi_c":1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_020943619_1 or XP_020943612_1 or XP_020943592_1 or XP_020943603_1 or XP_020944645_1 or XP_020944648_1 or XP_020919483_1 or XP_020919480_1 or XP_020919478_1 or XP_020944643_1 or XP_020944647_1 or XP_005662941_1 or XP_003125557_1 or XP_005662940_1 or XP_003125559_1 or XP_013851977_1 or XP_013851978_1 or XP_013851981_1 or XP_013851980_1 or XP_020944644_1 or XP_003125558_1 or XP_013851979_1 or XP_020943592_1 or XP_020943603_1 or XP_020943612_1 or XP_020943619_1",
-"subsystem":"NAD Metabolism"
 },
 {
 "id":"ALR2",
@@ -47391,20 +47218,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020922088_1 or XP_020922087_1",
 "subsystem":"Glycerophospholipid Metabolism"
-},
-{
-"id":"CYSGLYex_copy1",
-"name":"L-cysteine/glycine exchanger",
-"metabolites":{
-"cys__L_c":-1,
-"cys__L_e":1,
-"gly_c":1,
-"gly_e":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"(23428_AT1 and 6520_AT1) or (23428_AT2 and 6520_AT1)",
-"subsystem":"Transport, Extracellular"
 },
 {
 "id":"GALASE12ly",
@@ -52234,19 +52047,6 @@
 "subsystem":"Fatty acid activation"
 },
 {
-"id":"ACACT1r_copy1",
-"name":"Acetyl-CoA C-acetyltransferase",
-"metabolites":{
-"aacoa_c":1,
-"accoa_c":-2.0,
-"coa_c":1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_001928380_1",
-"subsystem":"Cholesterol Metabolism"
-},
-{
 "id":"ACSRTNMT",
 "name":"S-Adenosyl-L-homocysteine:N-acetylserotonin O-methyltransferase",
 "metabolites":{
@@ -53177,20 +52977,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_013842939_1 or XP_013842938_1 or XP_013842937_1 or XP_013842936_1 or XP_013842935_1 or XP_003123547_1",
 "subsystem":"Blood Group Biosynthesis"
-},
-{
-"id":"CYSGLYex_copy2",
-"name":"L-cysteine/glycine exchanger",
-"metabolites":{
-"cys__L_c":-1,
-"cys__L_e":1,
-"gly_c":1,
-"gly_e":-1
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_003353857_2 and XP_020949952_1 or XP_003127062_1 or XP_020954899_1 or XP_020954898_1 or XP_003128598_5 or XP_020949953_1 or XP_020949951_1",
-"subsystem":"Transport, Extracellular"
 },
 {
 "id":"HSD17B4x",
@@ -56182,21 +55968,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_013837157_1 or XP_005669635_1 or XP_003132266_1 or XP_020924437_1 or XP_013837158_1 or XP_020952565_1 or XP_020952362_1 or XP_020952355_1 or XP_020952353_1 or XP_020952342_1 or XP_020952338_1 or XP_020952335_1 or XP_020952415_1 or XP_020952412_1 or XP_013843035_2 or XP_020940242_1 or XP_020940240_1 or XP_020940244_1 or XP_020940243_1 or XP_020940241_1 or XP_020952372_1 or XP_020940230_1 or XP_020940229_1 or XP_020940233_1 or XP_020940234_1 or XP_020940231_1 or XP_020940236_1 or XP_020952379_1 or XP_020940239_1 or XP_013843033_2 or XP_020952425_1 or XP_020952465_1 or XP_020952454_1 or XP_020952498_1 or XP_020952490_1 or XP_020952551_1 or XP_020940237_1 or XP_020940238_1 or XP_020940235_1 or XP_020952367_1 or XP_020952440_1 or XP_020952445_1 or XP_020952377_1 or XP_020952540_1 or XP_020952539_1 or XP_020952405_1 or XP_020952397_1 or XP_020952387_1 or XP_020952434_1 or XP_020952517_1 or XP_020952506_1 or XP_020952536_1 or XP_020952528_1 or XP_020952483_1 or XP_020952472_1 or XP_020952555_1 or XP_020940234_1 or XP_020940231_1 or XP_020940241_1 or XP_020940237_1 or XP_020940233_1 or XP_020952540_1 or XP_020952539_1 or XP_020952465_1 or XP_020952454_1 or XP_020952379_1 or XP_020952483_1 or XP_020952472_1 or XP_020952440_1 or XP_020952425_1 or XP_020952551_1 or XP_020952555_1 or XP_020952498_1 or XP_020952490_1 or XP_020940242_1 or XP_013843033_2 or XP_020952517_1 or XP_020952506_1 or XP_020952536_1 or XP_020952528_1 or XP_020940239_1 or XP_020940230_1 or XP_020940229_1 or XP_020940236_1 or XP_020952445_1 or XP_020952405_1 or XP_020952397_1 or XP_020952387_1 or XP_020952565_1 or XP_020952372_1 or XP_020952362_1 or XP_020952355_1 or XP_020952353_1 or XP_020952342_1 or XP_020952338_1 or XP_020952335_1 or XP_020952377_1 or XP_020952415_1 or XP_020952412_1 or XP_020952434_1 or XP_020952367_1 or XP_020940238_1 or XP_020940235_1 or XP_020940240_1 or XP_013843035_2 or XP_020940244_1 or XP_020940243_1 or XP_020954264_1 or XP_001925794_2 or XP_020924437_1 or XP_013837158_1",
 "subsystem":"INOSITOL PHOSPHATE METABOLISM"
-},
-{
-"id":"B3GNT39g_1_copy2",
-"name":"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus",
-"metabolites":{
-"galgluside_psc_g":1,
-"gluside_psc_g":-1,
-"h_g":1,
-"udp_g":1,
-"udpgal_g":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_003127934_2 or XP_003134538_2",
-"subsystem":"GLYCOSPHINGOLIPID METABOLISM"
 },
 {
 "id":"r1685",
@@ -72553,21 +72324,6 @@
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001137192_1 or XP_020941258_1 or XP_020941256_1 or XP_020941257_1 or XP_020941259_1 or NP_001231378_1 or NP_001231379_1 or NP_001038075_1 or XP_005668988_1 or NP_001191688_1 or XP_013843206_1 or XP_013843207_1",
 "subsystem":"PYRIMIDINE SYNTHESIS"
-},
-{
-"id":"B3GNT39g_1_copy1",
-"name":"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus",
-"metabolites":{
-"galgluside_psc_g":1,
-"gluside_psc_g":-1,
-"h_g":1,
-"udp_g":1,
-"udpgal_g":-1
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"XP_013842939_1 or XP_013842938_1 or XP_013842937_1 or XP_013842936_1 or XP_013842935_1 or XP_003123547_1",
-"subsystem":"SPHINGOLIPID METABOLISM"
 },
 {
 "id":"PI34P3P",
@@ -101629,18 +101385,6 @@
 },
 {
 "id":"XP_020929094_1",
-"name":""
-},
-{
-"id":"6520_AT1",
-"name":""
-},
-{
-"id":"23428_AT1",
-"name":""
-},
-{
-"id":"23428_AT2",
 "name":""
 },
 {
