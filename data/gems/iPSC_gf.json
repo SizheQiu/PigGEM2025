@@ -33168,13 +33168,13 @@
 "id":"LDH_D",
 "name":"D-lactate dehydrogenase",
 "metabolites":{
-"h_c":1,
-"lac__D_c":-1,
-"nad_c":-1,
-"nadh_c":1,
-"pyr_c":1
+"h_c":-1,
+"lac__D_c":1,
+"nad_c":1,
+"nadh_c":-1,
+"pyr_c":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"197257_AT2 or XP_020949443_1",
 "subsystem":"Pyruvate Metabolism"
@@ -40438,12 +40438,12 @@
 "id":"PGK",
 "name":"Phosphoglycerate kinase",
 "metabolites":{
-"13dpg_c":1,
-"3pg_c":-1,
-"adp_c":1,
-"atp_c":-1
+"13dpg_c":-1,
+"3pg_c":1,
+"adp_c":-1,
+"atp_c":1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001093402_1 or NP_998947_1 or NP_998947_1 or NP_001093402_1 or 348477_AT1",
 "subsystem":"Glycolysis/Gluconeogenesis"
@@ -41303,13 +41303,13 @@
 "id":"LDH_L",
 "name":"L-lactate dehydrogenase",
 "metabolites":{
-"h_c":1,
-"lac__L_c":-1,
-"nad_c":-1,
-"nadh_c":1,
-"pyr_c":1
+"h_c":-1,
+"lac__L_c":1,
+"nad_c":1,
+"nadh_c":-1,
+"pyr_c":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"NP_001302607_1 or XP_013849955_2 or XP_020937310_1 or XP_020937318_1 or XP_020937314_1 or NP_001165834_1 or XP_020933337_1 or NP_001182704_1 or XP_013843801_1 or XP_020947911_1 or NP_001106758_1 or XP_020933342_1 or XP_020933349_1 or XP_020937318_1 or XP_020937314_1 or NP_001165834_1 or XP_020933337_1 or NP_001182704_1 or XP_020947911_1 or NP_001106758_1 or XP_020933342_1 or XP_020933349_1 or NP_001302607_1 or XP_013849955_2 or XP_020937310_1 or XP_013843801_1 or XP_020938923_1 or XP_020938921_1 or XP_020938920_1 or XP_013849947_2 or XP_020933342_1 or NP_001182704_1 or XP_020933337_1 or XP_020947911_1 or NP_001106758_1 or XP_013843801_1 or 3948_AT2 or XP_020933349_1 or XP_020933337_1 or NP_001182704_1 or XP_020933342_1 or XP_020937318_1 or XP_020937314_1 or XP_020937310_1 or NP_001165834_1 or XP_013849955_2 or XP_020947911_1 or NP_001106758_1 or NP_001302607_1 or XP_013843801_1 or (3945_AT1 and 3939_AT1) or NP_001302607_1 or XP_020933349_1 or XP_020947911_1 or XP_013843801_1 or NP_001106758_1 or XP_020937318_1 or XP_020937314_1 or XP_020937310_1 or NP_001165834_1 or XP_013849955_2 or NP_001182704_1 or XP_020933337_1 or XP_020933342_1 or XP_020937318_1 or XP_020937314_1 or NP_001165834_1 or XP_020947911_1 or NP_001106758_1 or XP_020933349_1 or XP_013843801_1 or XP_020933337_1 or NP_001182704_1 or XP_020933342_1 or XP_013849955_2 or XP_020937310_1 or NP_001302607_1",
 "subsystem":"Glycolysis/Gluconeogenesis"
@@ -42911,14 +42911,14 @@
 "id":"SUCOAS1m",
 "name":"Succinyl-CoA ligase (GDP-forming)",
 "metabolites":{
-"coa_m":-1,
-"gdp_m":1,
-"gtp_m":-1,
-"pi_m":1,
-"succ_m":-1,
-"succoa_m":1
+"coa_m":1,
+"gdp_m":-1,
+"gtp_m":1,
+"pi_m":-1,
+"succ_m":1,
+"succoa_m":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020921243_1 or XP_020921244_1 or XP_003132357_4 or XP_020926487_1 and XP_020941544_1 or XP_005655282_2 or NP_999574_1",
 "subsystem":"Citric Acid Cycle"
@@ -50454,10 +50454,10 @@
 "id":"PGM",
 "name":"Phosphoglycerate mutase",
 "metabolites":{
-"2pg_c":-1,
-"3pg_c":1
+"2pg_c":1,
+"3pg_c":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020934104_1 or XP_020934103_1 or XP_020934102_1 or XP_020934101_1 or NP_001128440_1 or XP_003483583_1 or XP_020934835_1 or XP_020934835_1 or XP_020934104_1 or XP_020934103_1 or XP_020934102_1 or XP_020934101_1 or NP_001128440_1 or XP_003483583_1 or 669_AT2 or XP_003483583_1 or XP_020934104_1 or XP_020934103_1 or XP_020934102_1 or XP_020934101_1 or NP_001128440_1 or XP_020934835_1 or 5224_AT1",
 "subsystem":"Glycolysis/Gluconeogenesis"
@@ -51669,13 +51669,13 @@
 "id":"LDH_Lm",
 "name":"L-lactate dehydrogenase, mitochondria",
 "metabolites":{
-"h_m":1,
-"lac__L_m":-1,
-"nad_m":-1,
-"nadh_m":1,
-"pyr_m":1
+"h_m":-1,
+"lac__L_m":1,
+"nad_m":1,
+"nadh_m":-1,
+"pyr_m":-1
 },
-"lower_bound":-1000.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"XP_020937318_1 or XP_020937314_1 or NP_001165834_1 or XP_020947911_1 or NP_001106758_1 or XP_020933349_1 or XP_013843801_1 or XP_020933337_1 or NP_001182704_1 or XP_020933342_1 or XP_013849955_2 or XP_020937310_1 or NP_001302607_1",
 "subsystem":"Pyruvate Metabolism"
@@ -73990,7 +73990,7 @@
 "metabolites":{
 "asn__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74012,7 +74012,7 @@
 "metabolites":{
 "h2o_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74056,7 +74056,7 @@
 "metabolites":{
 "h_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74078,7 +74078,7 @@
 "metabolites":{
 "cys__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74100,7 +74100,7 @@
 "metabolites":{
 "gln__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74111,7 +74111,7 @@
 "metabolites":{
 "hco3_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74133,7 +74133,7 @@
 "metabolites":{
 "lys__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74144,7 +74144,7 @@
 "metabolites":{
 "pro__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74188,7 +74188,7 @@
 "metabolites":{
 "tyr__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74221,7 +74221,7 @@
 "metabolites":{
 "glc__D_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74265,7 +74265,7 @@
 "metabolites":{
 "met__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74276,7 +74276,7 @@
 "metabolites":{
 "leu__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74595,7 +74595,7 @@
 "metabolites":{
 "ser__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74672,7 +74672,7 @@
 "metabolites":{
 "his__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74705,7 +74705,7 @@
 "metabolites":{
 "pi_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74738,7 +74738,7 @@
 "metabolites":{
 "chol_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -74925,7 +74925,7 @@
 "metabolites":{
 "thr__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75024,7 +75024,7 @@
 "metabolites":{
 "phe__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75145,7 +75145,7 @@
 "metabolites":{
 "arg__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75233,7 +75233,7 @@
 "metabolites":{
 "ile__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75266,7 +75266,7 @@
 "metabolites":{
 "hxan_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75277,7 +75277,7 @@
 "metabolites":{
 "val__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75321,7 +75321,7 @@
 "metabolites":{
 "so4_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75409,7 +75409,7 @@
 "metabolites":{
 "trp__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -75860,7 +75860,7 @@
 "metabolites":{
 "fol_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76102,7 +76102,7 @@
 "metabolites":{
 "o2_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76223,7 +76223,7 @@
 "metabolites":{
 "fe2_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -76289,7 +76289,7 @@
 "metabolites":{
 "asp__L_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -82292,7 +82292,7 @@
 "metabolites":{
 "pydxn_e":-1
 },
-"lower_bound":-10.0,
+"lower_bound":-100.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -106560,7 +106560,7 @@
 "name":""
 },
 {
-"id":"XP_020937155_1",
+"id":"NP_001090977_1",
 "name":""
 },
 {
@@ -106568,11 +106568,11 @@
 "name":""
 },
 {
-"id":"NP_001090977_1",
+"id":"NP_001090978_1",
 "name":""
 },
 {
-"id":"NP_001090978_1",
+"id":"XP_020937155_1",
 "name":""
 }
 ],
