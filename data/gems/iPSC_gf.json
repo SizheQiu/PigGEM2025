@@ -81643,6 +81643,45 @@
 "subsystem":"NUCLEOTIDE INTERCONVERSION"
 },
 {
+"id":"ATPM",
+"name":"ATP maintenance requirement",
+"metabolites":{
+"adp_c":1,
+"atp_c":-1,
+"h2o_c":-1,
+"h_c":1,
+"pi_c":1
+},
+"lower_bound":0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"Biomass and maintenance functions"
+},
+{
+"id":"O2t",
+"name":"O2 transport  diffusion ",
+"metabolites":{
+"o2_c":1,
+"o2_e":-1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"TRANSPORT, EXTRACELLULAR"
+},
+{
+"id":"O2St",
+"name":"Superoxide anion transport via diffusion (extracellular)",
+"metabolites":{
+"o2s_c":-1,
+"o2s_e":1
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"subsystem":"TRANSPORT, EXTRACELLULAR"
+},
+{
 "id":"ARTFR11_psc",
 "name":"R group artificial flux",
 "metabolites":{
@@ -106560,11 +106599,11 @@
 "name":""
 },
 {
-"id":"NP_001090977_1",
+"id":"XP_020937156_1",
 "name":""
 },
 {
-"id":"XP_020937156_1",
+"id":"XP_020937155_1",
 "name":""
 },
 {
@@ -106572,7 +106611,7 @@
 "name":""
 },
 {
-"id":"XP_020937155_1",
+"id":"NP_001090977_1",
 "name":""
 }
 ],
