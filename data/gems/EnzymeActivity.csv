@@ -1,258 +1,262 @@
-﻿Rxn,Activity(mmol/hr/g)
-EX_glc__D_e,7.2
-EX_lac__L_e,6360
-EX_ac_e,6360
-EX_urea_e,6360
-EX_aa_e,2.322
-HEX1,11490
-PGI,37200
-PFK,7680
-FBA,1338
-TPI,614400
-GAPD,4800
-PGK,60000
-PGM,12600
-ENO,5460
-PYK,11460
-LDH_L,4800
-G6PDH2r,12060
-PGL,63900
-GND,113.4
-RPI,102000
-RPE,394200
-TKT1,52.8
-TKT2,52.8
-TALA,900
-PRPPS,1332
-ACONT,367.8
-CITL,8328
-ACOAH,19740
-P5CR,426
-P5CRx,426
-HISDr,596.4
-URCN,96
-IZPN,92.4
-GluForTx,2700
-FTCD,1500
-ASNN,11772
-AATA,1566
-ACITL,816
-PCLAD,227.34
-LTDCL,184.14
-MAOX,124.8
-PROD2,438
-3SALATAi,10200
-KYN,4098
-ADMDC,24600
-HGNTOR,1255.92
-CYSTS,618
-41R2A1H12BOOX,105.6
-METS,1.962
-TYRDOPO3,21001.2
-BBHOX,0.144
-MAOLNOR,105.6
-AACTOOR,124.8
-IDHPOXOX3,8280
-TRYPTAOX,124.8
-PRO1x,1920
-3HLYTCL,184.14
-NORANMT,0.3948
-H2O2syn,0.12
-MMCD,12360
-TMLYSOX,3.516
-BETALDHx,198
-34HPPOR,3060
-SERHL,8220
-SALMCOM2,0.0642
-THRD_L,59340
-HISTASE,18.6
-ALDD19x_P,2760
-CACNAO2,48.96
-ALDD20x,330
-3MOX4HOXPGALDOX,2760
-PGCD,4260
-5HLTDL,184.14
-EHGLAT,29.4
-34DHXMANDACOX,2760
-DOPAMT,0.0642
-PEAMNO,124.8
-TRPO2,196.2733957
-TMABADH,306
-5HTRPDOX,282
-SALMCOM,0.0642
-MELATN23DOX,282
-TRPOX,525
-METOX,1260
-PHEOX,562.8
-HOLYSK,6.84
-FTHFDH,58.8
-2AMACHYD,8220
-DHPR,70800
-CHOLK,8580
-MI3PP,102
-FKYNH,19.8
-GF6PTA,2088
-ACGAM6PS,1500
-UAGDP,894
-UAG2EMA,535.8561968
-AMANK,156
-ACNAM9PL,49.8
-ACNAMPH,41040
-ACNMCT,190.2
-GMAND,2.16
-MAN1PT,1446
-THRA,150
-ASPO1,294
-5HXKYNOXDA,105.6
-MCPST,74400
-IDHPOXOX4,8280
-41R1H2MAE12BOOX,105.6
-NOS2,43.8
-IMACTD,330
-IDHPOXOXb,8280
-PSERT,900
-BHMT,2.352
-KYNAKGAT,234
-FUMAC,93480
-HISDC,9960
-5HOXINDACTO2OX,52.8
-3MOXTYROX,105.6
-TYRDOPO,21001.2
-ALDD19xr,2760
-HKYNH,4098
-5HXKYNDCL,184.14
-DOPABMO,4140
-KYN3OX,2820
-TRDR,2520
-CTPS1,0.9
-CTPS2,0.9
-RNDR1,165000
-RNDR2,165000
-RNDR3,165000
-RNDR4,165000
-TMDS,228
-NADK,402
-NNDPR,5.46
-NADS2,1.02
-HXPRT,1620
-PPA,119160
-THRD,22800
-GTHOr,13260
-3HAO,8400
-PSP_L,7.8
-42A12BOOX,124.8
-TYRCBOX,184.14
-OMPDC,0.102
-TRIODTHYSULT,1746
-CBPS,30540
-IMPD,34.2
-ICDHyr,2316
-FBP,2916
-ALDD2y,2760
-ACS,1608
-ALCD2y,1260
-ACYP,94200
-ALDD2x,330
-ALCD2x,198
-PEPCK_re,1194
-RBK,1392
-DRBK,1392
-ARGSS,252
-GLUPRT,109.2
-PRFGS,9.6
-PRAIS,25.8
-ADSL2r,1398
-ADSS,141.6
-ADSL1r,1398
-GMPS2,224.4
-GLUDC,177.36
-LFORKYNHYD,4098
-IDHPOXOX2b,8280
-34DHALDD,2760
-CYSTGL,1440
-5HOXINDACTOX,330
-GNMT,42
-THYPX,8280
-METAT,12960
-ALR,435
-SAMHISTA,624
-PPOR,3060
-PHYCBOXL,184.14
-3HXKYNOXDA,105.6
-GLNS,60
-NOS1,43.8
-THRS,228
-TYROXDAc,124.8
-ASNS1,23.7
-DOPASULT,1746
-PDHm,660
-CSm,7.62
-ACONTm,367.8
-ICDHxm,1860
-AKGDm,15120
-SUCOAS1m,1326
-SUCD1m,2.34
-FUMm,27000
-MDHm,10920
-GLUNm,20700
-ASPTAm,10200
-ASPTA,10200
-MDH,10920
-GLUDym,2400
-GDHm,50.4
-P5CDm,33
-PRO1xm,426
-ARGNm,138000
-ORNTArm,13.68
-ICDHym,2316
-SACCD3m,1698
-SACCD4m,0.348
-AASAD3m,11.1
-2OXOADOXm,7980
-GLUTCOADHm,138
-ECOAH1m,80040
-HACD1m,13200
-ACACT1m,3492
-PHACCOAGLYACm,834
-KYNAKGATm,234
-3HBCOAHLm,25800
-OCBTm,1584
-PEPCKm,1194
-HMGLm,420
-G3PD2m,174
-BETALDHxm,198
-ACOAD10m,1494
-3SALATAim,10200
-ALDD2xm,330
-ACSm,1608
-CBPSam,90
-AGMTm,27
-3HKYNAKGATm,234
-P5CRxm,426
-ARGDCm,24600
-ASNNm,358.2592419
-EHGLATm,492
-GCCbim,64.8
-MMCDm,12360
-MMSAD1m,109.8
-IMACTD_m,330
-PPCOACm,336
-GCC2bim,64.8
-5HOXINDACTOXm,330
-ACOAD8m,702
-ALDD20xm,330
-SSALxm,318
-AGTim,3108
-NABTNOm,330
-PHCDm,1626
-CYANSTm,156
-P5CRm,426
-PROD2m,438
-CHOLD2m,378
-ALASm,112.2
-HPROxm,1920
-GTHOm,13260
-OXP_nadh,450
-OXP_fadh2,450
-BIOMASS,100
-ATPM,50
+﻿Rxn,Organism,Activity(mmol/hr/g)
+EX_glc__D_e,Homo sapiens,7.2
+EX_lac__L_e,Saccharomyces cerevisiae,6360
+EX_ac_e,_,6360
+EX_urea_e,_,6360
+EX_succ_e,_,6360
+EX_pyr_e,_,6360
+EX_aa_e,_,10
+HEX1,Sus scrofa,11490
+PGI,Homo sapiens,37200
+PFK,Sus scrofa,7680
+FBA,Homo sapiens,1338
+TPI,Homo sapiens,614400
+GAPD,Sus scrofa,4800
+PGK,Sus scrofa,60000
+PGM,Sus scrofa,12600
+ENO,Sus scrofa,5460
+PYK,Sus scrofa,11460
+LDH_L,Homo sapiens,27510
+G6PDH2r,Sus scrofa,12060
+PGL,Homo sapiens,63900
+GND,Sus scrofa,113.4
+RPI,Pisum sativum,102000
+RPE,Bos taurus,394200
+TKT1,Sus scrofa,52.8
+TKT2,Sus scrofa,52.8
+TALA,Homo sapiens,900
+PRPPS,Homo sapiens,1332
+ACONT,Rattus rattus,367.8
+CITL,Rubrivivax gelatinosus,8328
+ACOAH,Rattus norvegicus,19740
+P5CR,Bos taurus,426
+P5CRx,Bos taurus,426
+HISDr,Rattus norvegicus,596.4
+URCN,Bos taurus,96
+IZPN,Rattus norvegicus,92.4
+GluForTx,Sus scrofa,2700
+FTCD,Sus scrofa,1500
+ASNN,Saccharomyces cerevisiae,11772
+AATA,Rattus norvegicus,1566
+ACITL,Rattus norvegicus,816
+PCLAD,Sus scrofa,227.34
+LTDCL,Sus scrofa,184.14
+MAOX,Sus scrofa,124.8
+PROD2,Escherichia coli,438
+3SALATAi,Sus scrofa,10200
+KYN,Sus scrofa,4098
+ADMDC,Homo sapiens,24600
+HGNTOR,Homo sapiens,1255.92
+CYSTS,Homo sapiens,618
+41R2A1H12BOOX,Homo sapiens,105.6
+METS,Sus scrofa,1.962
+TYRDOPO3,Homo sapiens,21001.2
+BBHOX,Sus scrofa,0.144
+MAOLNOR,Homo sapiens,105.6
+AACTOOR,Sus scrofa,124.8
+IDHPOXOX3,Sus scrofa,8280
+TRYPTAOX,Sus scrofa,124.8
+PRO1x,Homo sapiens,1920
+3HLYTCL,Sus scrofa,184.14
+NORANMT,Bos taurus,0.3948
+H2O2syn,Sus scrofa,0.12
+MMCD,Bos taurus,12360
+TMLYSOX,Rattus norvegicus,3.516
+BETALDHx,Rattus norvegicus,198
+34HPPOR,Sus scrofa,3060
+SERHL,Homo sapiens,8220
+SALMCOM2,Sus scrofa,0.0642
+THRD_L,Rattus norvegicus,59340
+HISTASE,Sus scrofa,18.6
+ALDD19x_P,Homo sapiens,2760
+CACNAO2,Sus scrofa,48.96
+ALDD20x,Homo sapiens,330
+3MOX4HOXPGALDOX,Homo sapiens,2760
+PGCD,Gallus gallus,4260
+EHGLAT,Rattus norvegicus,29.4
+34DHXMANDACOX,Homo sapiens,2760
+DOPAMT,Sus scrofa,0.0642
+PEAMNO,Sus scrofa,124.8
+TRPO2,Homo sapiens,196.2733957
+TMABADH,Bos taurus,306
+5HTRPDOX,Homo sapiens,282
+SALMCOM,Sus scrofa,0.0642
+MELATN23DOX,Homo sapiens,282
+TRPOX,Naja oxiana,525
+METOX,Naja oxiana,1260
+PHEOX,Naja oxiana,562.8
+HOLYSK,Naja oxiana,6.84
+FTHFDH,Sus scrofa,58.8
+2AMACHYD,Homo sapiens,8220
+DHPR,Homo sapiens,70800
+CHOLK,Rattus norvegicus,8580
+MI3PP,Sus scrofa,102
+FKYNH,Sus scrofa,19.8
+GF6PTA,Homo sapiens,2088
+ACGAM6PS,Homo sapiens,1500
+UAGDP,Sus scrofa,894
+UAG2EMA,Homo sapiens,535.8561968
+AMANK,Homo sapiens,156
+ACNAM9PL,Sus scrofa,49.8
+ACNAMPH,Rattus norvegicus,41040
+ACNMCT,Sus scrofa,190.2
+GMAND,Sus scrofa,2.16
+MAN1PT,Sus scrofa,1446
+THRA,Saccharomyces cerevisiae,150
+ASPO1,Chlamydomonas reinhardtii,294
+5HXKYNOXDA,Homo sapiens,105.6
+MCPST,Bos taurus,74400
+IDHPOXOX4,Sus scrofa,8280
+41R1H2MAE12BOOX,Homo sapiens,105.6
+NOS2,Sus scrofa,43.8
+IMACTD,Homo sapiens,330
+IDHPOXOXb,Sus scrofa,8280
+PSERT,Bos taurus,900
+BHMT,Sus scrofa,2.352
+KYNAKGAT,Homo sapiens,234
+FUMAC,Homo sapiens,93480
+HISDC,Mus musculus,9960
+5HOXINDACTO2OX,Mus musculus,52.8
+3MOXTYROX,Homo sapiens,105.6
+TYRDOPO,Homo sapiens,21001.2
+ALDD19xr,Homo sapiens,2760
+HKYNH,Sus scrofa,4098
+5HXKYNDCL,Sus scrofa,184.14
+DOPABMO,Bos taurus,4140
+KYN3OX,Rattus norvegicus,2820
+TRDR,Homo sapiens,2520
+CTPS1,Bos taurus,0.9
+CTPS2,Bos taurus,0.9
+RNDR1,Mus musculus,165000
+RNDR2,Mus musculus,165000
+RNDR3,Mus musculus,165000
+RNDR4,Mus musculus,165000
+TMDS,Homo sapiens,228
+NADK,Homo sapiens,402
+NNDPR,Sus scrofa,5.46
+NADS2,"	Homo sapiens",1.02
+HXPRT,"	Homo sapiens",1620
+PPA,Sus scrofa,119160
+THRD,Sus scrofa,22800
+GTHOr,Sus scrofa,13260
+3HAO,Bos taurus,8400
+PSP_L,Bos taurus,7.8
+42A12BOOX,Sus scrofa,124.8
+TYRCBOX,Sus scrofa,184.14
+OMPDC,"Homo sapiens	",0.102
+TRIODTHYSULT,Homo sapiens,1746
+CBPS,Neurospora crassa,30540
+IMPD,Sus scrofa,34.2
+ICDHyr,Sus scrofa,2316
+FBP,Sus scrofa,2916
+ALDD2y,Homo sapiens,2760
+ACS,Mus musculus,1608
+ALCD2y,Sus scrofa,1260
+ACYP,Homo sapiens,94200
+ALDD2x,Homo sapiens,330
+ALCD2x,Homo sapiens,198
+PEPCK_re,Rattus norvegicus,1194
+RBK,Bos taurus,1392
+DRBK,Bos taurus,1392
+ARGSS,Homo sapiens,252
+GLUPRT,Rattus norvegicus,109.2
+PRFGS,Gallus gallus,9.6
+PRAIS,Gallus gallus,25.8
+ADSL2r,Homo sapiens,1398
+ADSS,Rattus norvegicus,141.6
+ADSL1r,Homo sapiens,1398
+GMPS2,Homo sapiens,224.4
+GLUDC,Homo sapiens,177.36
+LFORKYNHYD,Sus scrofa,4098
+IDHPOXOX2b,Sus scrofa,8280
+34DHALDD,Homo sapiens,2760
+CYSTGL,Rattus norvegicus,1440
+5HOXINDACTOX,Homo sapiens,330
+GNMT,Oryctolagus cuniculus,42
+THYPX,Sus scrofa,8280
+METAT,Homo sapiens,12960
+ALR,Rattus norvegicus,435
+SAMHISTA,Sus scrofa,624
+PPOR,Sus scrofa,3060
+PHYCBOXL,Sus scrofa,184.14
+3HXKYNOXDA,Homo sapiens,105.6
+GLNS,Sus scrofa,60
+NOS1,Sus scrofa,43.8
+THRS,Arabidopsis thaliana,228
+TYROXDAc,Sus scrofa,124.8
+ASNS1,Bos taurus,23.7
+DOPASULT,Homo sapiens,1746
+PDHm,Sus scrofa,660
+CSm,Rattus norvegicus,7.62
+ACONTm,Rattus rattus,367.8
+ICDHxm,Sus scrofa,1860
+AKGDm,Urocitellus richardsonii,15120
+SUCOAS1m,Pigeon,1326
+SUCD1m,Homo sapiens,2.34
+FUMm,Sus scrofa,27000
+MDHm,Sus scrofa,10920
+GLUNm,Rattus norvegicus,20700
+ASPTAm,Sus scrofa,10200
+ASPTA,Sus scrofa,10200
+MDH,Sus scrofa,10920
+GLUDym,Bos taurus,2400
+GDHm,Rattus norvegicus,50.4
+P5CDm,Bos taurus,33
+PRO1xm,Bos taurus,426
+ARGNm,Homo sapiens,138000
+ORNTArm,Sus scrofa,13.68
+ICDHym,Sus scrofa,2316
+SACCD3m,Rattus norvegicus,1698
+SACCD4m,Sus scrofa,0.348
+AASAD3m,Rattus norvegicus,11.1
+2OXOADOXm,Rattus norvegicus,7980
+GLUTCOADHm,Sus scrofa,138
+ECOAH1m,Sus scrofa,80040
+HACD1m,Sus scrofa,13200
+ACACT1m,Sus scrofa,3492
+PHACCOAGLYACm,Homo sapiens,834
+KYNAKGATm,Homo sapiens,234
+3HBCOAHLm,Homo sapiens,25800
+OCBTm,Sus scrofa,1584
+PEPCKm,Rattus norvegicus,1194
+HMGLm,Sus scrofa,420
+G3PD2m,Sus scrofa,174
+BETALDHxm,Rattus norvegicus,198
+ACOAD10m,Homo sapiens,1494
+3SALATAim,Sus scrofa,10200
+ALDD2xm,Homo sapiens,330
+ACSm,Mus musculus,1608
+CBPSam,Homo sapiens,90
+3HKYNAKGATm,Homo sapiens,234
+P5CRxm,Bos taurus,426
+ARGDCm,Escherichia coli,24600
+ASNNm,Homo sapiens,358.2592419
+EHGLATm,Rattus norvegicus,492
+GCCbim,Pisum sativum,64.8
+MMCDm,Bos taurus,12360
+MMSAD1m,Rattus norvegicus,109.8
+IMACTD_m,Homo sapiens,330
+PPCOACm,Sus scrofa,336
+GCC2bim,Pisum sativum,64.8
+5HOXINDACTOXm,Homo sapiens,330
+ACOAD8m,Homo sapiens,702
+ALDD20xm,Homo sapiens,330
+SSALxm,Sus scrofa,318
+AGTim,Homo sapiens,3108
+NABTNOm,Homo sapiens,330
+PHCDm,Rattus norvegicus,1626
+CYANSTm,Homo sapiens,156
+P5CRm,Bos taurus,426
+PROD2m,Escherichia coli,438
+CHOLD2m,Rattus norvegicus,378
+ALASm,Rattus norvegicus,112.2
+HPROxm,Homo sapiens,1920
+GTHOm,Sus scrofa,13260
+VALTAim,Sus scrofa,3180
+MMEm,Rattus norvegicus,504000
+MMMm,Homo sapiens,4044
+SUCOASm,Columba livia,396.6
+OXP_nadh,Sus scrofa,450
+OXP_fadh2,Sus scrofa,450
+BIOMASS,_,100
+ATPM,_,50
