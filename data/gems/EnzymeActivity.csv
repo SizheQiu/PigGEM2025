@@ -186,6 +186,10 @@ THRS,Arabidopsis thaliana,228
 TYROXDAc,Sus scrofa,124.8
 ASNS1,Bos taurus,23.7
 DOPASULT,Homo sapiens,1746
+ASPCT,Drosophila melanogaster,40.8
+DHORTS,Cricetinae,159.6
+DHORD_NAD,Lactococcus lactis,3
+ORPT,Mus musculus,41.4
 PDHm,Sus scrofa,660
 CSm,Rattus norvegicus,7.62
 ACONTm,Rattus rattus,367.8
@@ -256,6 +260,7 @@ VALTAim,Sus scrofa,3180
 MMEm,Rattus norvegicus,504000
 MMMm,Homo sapiens,4044
 SUCOASm,Columba livia,396.6
+GLYCLm,Gallus gallus,247.8
 OXP_nadh,Sus scrofa,450
 OXP_fadh2,Sus scrofa,450
 BIOMASS,_,100
