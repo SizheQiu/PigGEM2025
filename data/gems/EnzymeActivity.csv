@@ -3,7 +3,7 @@ EX_glc__D_e,_,Homo sapiens,7.2
 EX_lac__L_e,_,Saccharomyces cerevisiae,6360
 EX_ac_e,_,_,6360
 EX_aa_e,_,_,7.2
-HEX1, 2.7.1.1,Sus scrofa,11490
+HEX1,2.7.1.1,Sus scrofa,11490
 PGI,5.3.1.9,Homo sapiens,37200
 PFK,2.7.1.11,Sus scrofa,7680
 FBA,4.1.2.13,Homo sapiens,1338
@@ -194,12 +194,12 @@ DHORTS,3.5.2.3,Cricetinae,159.6
 DHORD_NAD,1.3.1.14,Lactococcus lactis,3
 ORPT,2.4.2.10,Mus musculus,41.4
 PDHm,1.2.4.1,Sus scrofa,660
-CSm,2.3.3.1,Rattus norvegicus,7.62
+CSm,2.3.3.16,Saccharomyces cerevisiae,12780
 ACONTm,4.2.1.3,Rattus rattus,367.8
 ICDHxm,1.1.1.41,Sus scrofa,1860
 AKGDm,1.2.4.2,Urocitellus richardsonii,15120
 SUCOAS1m,6.2.1.4,Pigeon,1326
-SUCD1m,1.3.5.1,Homo sapiens,2.34
+SUCD1m,1.3.5.1,Homo sapiens,3360
 FUMm,4.2.1.2,Sus scrofa,27000
 FUM,4.2.1.2,Sus scrofa,27000
 MDHm,1.1.1.37,Sus scrofa,10920
