@@ -35,16 +35,47 @@ def pcfba(model, ptot, NGAM, AA_lb, Glc_lb, A_dict):
         model.reactions.EX_glc__D_e.lower_bound=-Glc_lb
         model.reactions.ATPM.lower_bound = NGAM
         set_PA(model, ptot, A_dict)
-        fluxes = cobra.flux_analysis.pfba(ipsc_core).fluxes
+        fluxes = cobra.flux_analysis.pfba(model).fluxes
     return fluxes
 
 def lac_inhibit_glc(lac_con, v_min):
-    return min( -0.084*lac_con + 1.789, v_min )
+    #vmin=0.01
+    return max( -0.084*lac_con + 1.789, v_min )
 
 def nh4_inhibit_glc(lac_con, nh4_con, v_min):
+    #vmin=0.01
     if nh4_con <= 4:
         return lac_inhibit_glc(lac_con, v_min)
-    return min( lac_inhibit_glc(lac_con, v_min)*2.299/(nh4_con-0.146), v_min )
+    return max( lac_inhibit_glc(lac_con, v_min)*2.299/(nh4_con-0.146), v_min )
+
+def inhibit_gln(lac_con, nh4_con, v_min):
+    #vmin=0.01
+    k1,k2,k3,k4 = 4.688,2.346,5.544,2.907
+    return max( 0.526*(k1/(lac_con+k2))*(k3/(nh4_con+k4)), v_min )
+
+# def dpcfba(model, ptot, NGAM, AA_lb, Glc_lb, A_dict, ic, T):
+#     times,step = np.linspace(0,T,num= 100,retstep=True)
+#     met_profile = {key: [ic[key]] for key in ic.keys() }
+#     flux_profile = {'BIOMASS':[]}
+    
+#     for i in range(len(times)-1):
+#         profile_t = {k: met_profile[k][i] for k in met_profile.keys() }#concentration profile snapshot at time t = i
+#         AA_lb = inhibit_gln(profile_t['lac__L_e'], profile_t['nh4_e'], 0.01)
+#         Glc_lb = nh4_inhibit_glc(profile_t['lac__L_e'], profile_t['nh4_e'], 0.01)
+#         fluxes = pcfba(model, ptot, NGAM, AA_lb, Glc_lb, A_dict)
+#         for k in flux_profile:
+#             flux_profile[k].append( fluxes[k] )
+#         for k in met_profile.keys():
+#             if k == 'BIOMASS':
+#                 met_profile['BIOMASS'].append( met_profile['BIOMASS'][i]+met_profile['BIOMASS'][i]*flux_profile['BIOMASS'][i]*step)
+#             else:
+#                 met_profile[k].append( max(met_profile[k][i]+met_profile['BIOMASS'][i]*flux_profile['EX_'+k][i]*step,0) )#concentration >= 0
+#     met_profile = times
+#     return met_profile, flux_profile
+                
+    
+    
+    
 
     
             
