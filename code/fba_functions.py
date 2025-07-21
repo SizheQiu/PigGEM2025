@@ -82,7 +82,7 @@ def dpcfba(model, ptot, NGAM, A_dict, ic, T):
                 met_profile['BIOMASS'].append( met_profile['BIOMASS'][i]+met_profile['BIOMASS'][i]*flux_profile['BIOMASS'][i]*step)
             else:
                 met_profile[k].append( max(met_profile[k][i]+met_profile['BIOMASS'][i]*flux_profile['EX_'+k][i]*step,0) )#concentration >= 0
-    met_profile = times
+    met_profile['T'] = times
     return met_profile, flux_profile
                 
     
