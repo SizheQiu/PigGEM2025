@@ -267,7 +267,7 @@ MMMm,m,5.4.99.2,4044,Homo sapiens
 SUCOASm,m,6.2.1.5,396.6,Columba livia
 GLYCLm,m,1.4.4.2,247.8,Gallus gallus
 GLYATm,m,2.3.1.29,1080,Bos taurus
-OXP_nadh,m,7.2.2.19,450,Sus scrofa
-OXP_fadh2,m,7.2.2.19,450,Sus scrofa
+OXP_nadh,m,7.2.2.19,30.6,Mus musculus
+OXP_fadh2,m,7.2.2.19,30.6,Mus musculus
 BIOMASS,c,_,107.4,_
-ATPM,c,_,3.662,_
+ATPM,c,_,5.6762,_
