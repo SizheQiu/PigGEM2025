@@ -61,7 +61,8 @@ def inhibit_our(lac_con, nh4_con, v_min):
     k1,k2,k3,k4 = 10.265,1.512,1.812,2.255
     return max( 4.9*(k1/(lac_con+k2))*(k3/(nh4_con+k4)), v_min )
 
-def dpcfba(model, ptot, NGAM, A_dict, ic, T):
+def dpcfba(model, ptot, NGAM, Dr, A_dict, ic, T):
+    #Dr (death rate)=0.01/hr
     times,step = np.linspace(0,T,num= 100,retstep=True)
     met_profile = {key: [ic[key]] for key in ic.keys() }
     flux_profile = {'BIOMASS':[]}
@@ -79,7 +80,8 @@ def dpcfba(model, ptot, NGAM, A_dict, ic, T):
             flux_profile[k].append( fluxes[k] )
         for k in met_profile.keys():
             if k == 'BIOMASS':
-                met_profile['BIOMASS'].append( met_profile['BIOMASS'][i]+met_profile['BIOMASS'][i]*flux_profile['BIOMASS'][i]*step)
+                met_profile['BIOMASS'].append( met_profile['BIOMASS'][i]+\
+                                              met_profile['BIOMASS'][i]*(flux_profile['BIOMASS'][i]-Dr)*step)
             else:
                 met_profile[k].append( max(met_profile[k][i]+met_profile['BIOMASS'][i]*flux_profile['EX_'+k][i]*step,0) )#concentration >= 0
     met_profile['T'] = times
