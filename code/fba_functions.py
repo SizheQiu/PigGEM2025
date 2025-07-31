@@ -49,7 +49,7 @@ def nh4_inhibit_glc(lac_con, nh4_con, v_min):
     #vmin=0.01
     if nh4_con <= 4:
         return lac_inhibit_glc(lac_con, v_min)
-    return max( lac_inhibit_glc(lac_con, v_min)*2.299/(nh4_con-0.146), v_min )
+    return max( lac_inhibit_glc(lac_con, v_min)*0.9612/(nh4_con-2.9434), v_min )
 
 def inhibit_gln(lac_con, nh4_con, v_min):
     #vmin=0.01
