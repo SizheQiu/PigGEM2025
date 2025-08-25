@@ -12,6 +12,12 @@ ex_aa_list = ['EX_asn__L_e', 'EX_cys__L_e', 'EX_gln__L_e', 'EX_lys__L_e', 'EX_pr
               'EX_trp__L_e', 'EX_asp__L_e', 'EX_ala__L_e', 'EX_glu__L_e', 'EX_gly_e']
 
 def set_PA(model, ptot, A_dict):
+    '''
+    Set proteome constraints to a GEM.
+    model: GEM model
+    ptot: total protein mass per 1 gram dry weight biomass
+    A_dict: the dict of enzyme activities
+    '''
     sigma=0.5
     t_sector = model.reactions.EX_lac__L_e.flux_expression/(sigma*A_dict['EX_lac__L_e']) +\
            (-1)*model.reactions.EX_glc__D_e.flux_expression/A_dict['EX_glc__D_e'] +\
@@ -31,6 +37,16 @@ def set_PA(model, ptot, A_dict):
     return None
 
 def pcfba(model, ptot, NGAM, AA_lb, Glc_lb, OUR_lb, A_dict):
+    '''
+    Run proteome constrained flux balance analysis (for PigGEM2025).
+    model: GEM model
+    ptot: total protein mass per 1 gram dry weight biomass
+    NGAM: non-growth associated maintenance ATP
+    AA_lb: (negative) lower bound of amino acid uptake
+    Glc_lb: (negative) lower bound of glucose uptake
+    OUR_lb: (negative) lower bound of oxygen uptake
+    A_dict: the dict of enzyme activities
+    '''
     with model:
         for ex_aa in ex_aa_list:
             model.reactions.get_by_id(ex_aa).lower_bound=-AA_lb
@@ -62,7 +78,16 @@ def inhibit_our(lac_con, nh4_con, v_min):
     return max( 4.9*(k1/(lac_con+k2))*(k3/(nh4_con+k4)), v_min )
 
 def dpcfba(model, ptot, NGAM, Dr, A_dict, ic, T):
-    #Dr (death rate)=0.01/hr
+    '''
+    Dynamic proteome constrained flux balance analysis
+    model: GEM model
+    ptot: total protein mass per 1 gram dry weight biomass
+    NGAM: non-growth associated maintenance ATP
+    Dr: death rate, 0.01/hr
+    A_dict: the dict of enzyme activities
+    ic: initial condition
+    T: time length (hr)
+    '''
     times,step = np.linspace(0,T,num= 100,retstep=True)
     met_profile = {key: [ic[key]] for key in ic.keys() }
     flux_profile = {'BIOMASS':[]}
@@ -83,7 +108,7 @@ def dpcfba(model, ptot, NGAM, Dr, A_dict, ic, T):
                 met_profile['BIOMASS'].append( met_profile['BIOMASS'][i]+\
                                               met_profile['BIOMASS'][i]*(flux_profile['BIOMASS'][i]-Dr)*step)
             else:
-                met_profile[k].append( max(met_profile[k][i]+met_profile['BIOMASS'][i]*flux_profile['EX_'+k][i]*step,0) )#concentration >= 0
+                met_profile[k].append( max(met_profile[k][i]+met_profile['BIOMASS'][i]*flux_profile['EX_'+k][i]*step,0) )#conc >= 0
     met_profile['T'] = times
     return met_profile, flux_profile
                 
