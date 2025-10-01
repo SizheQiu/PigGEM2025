@@ -2,7 +2,7 @@
 Proteome constrained metabolic modeling of Sus scrofa (Pig) muscle stem cells for cultured meat production
 ## Data
 1. Sequence data: `/data/blast_results/`<br>
-2. Growth and metabolomics: `/data/exp_data/`<br>
+2. Experimental data: `/data/exp_data/`<br>
 3. Genome-scale metabolic models:`/data/gems/` <br>
 ## Workflow
 1. GEM reconstruction:`/code/SemiAuto_curation.ipynb`, `/code/CoreGEM_Recon.ipynb` and `/code/BiomassApprox.ipynb`<br>
