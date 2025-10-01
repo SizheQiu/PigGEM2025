@@ -16,4 +16,6 @@ Proteome constrained metabolic modeling of Sus scrofa (Pig) muscle stem cells fo
 4. Scikit-learn: https://scikit-learn.org/
 5. Biopython: https://biopython.org/
 ## Citation
+## Funding information
+This project was funded by Biotechnology and Biological Sciences Research Council of UK Research and Innovation (project ref. BB/Y007859/1).
 
