@@ -1,5 +1,6 @@
 # PigGEM2025
-Proteome constrained metabolic modeling of Sus scrofa (Pig) muscle stem cells for cultured meat production
+Proteome constrained metabolic modeling of Sus scrofa (Pig) muscle stem cells for cultured meat production<br>
+This project is a sub-project of [Towards Sustainable Cultured Meat Production by Developing a Novel Biocatalyst](https://ibme.ox.ac.uk/research/tissue-engineering/research-areas/simcells-for-cultured-meat/)
 ## Data
 1. Sequence data: `/data/blast_results/`<br>
 2. Experimental data: `/data/exp_data/`<br>
