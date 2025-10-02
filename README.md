@@ -4,7 +4,7 @@ This project is a sub-project of [Towards Sustainable Cultured Meat Production b
 ## Data
 1. Sequence data: `/data/blast_results/`<br>
 2. Experimental data: `/data/exp_data/`<br>
-3. Genome-scale metabolic models:`/data/gems/` <br>
+3. PigGEM2025:`/data/gems/pig_core.xml` <br>
 ## Workflow
 1. GEM reconstruction:`/code/SemiAuto_curation.ipynb`, `/code/CoreGEM_Recon.ipynb` and `/code/BiomassApprox.ipynb`<br>
 2. Analysis of growth and metabolomics data:`/code/CellCulture.ipynb` <br>
