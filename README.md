@@ -17,6 +17,7 @@ This project is a sub-project of [Towards Sustainable Cultured Meat Production b
 4. Scikit-learn: https://scikit-learn.org/
 5. Biopython: https://biopython.org/
 ## Citation
+Sizhe Qiu, Eliska Kratochvilova, Wei E. Huang, Zhanfeng Cui, Tom Agnew, Aidong Yang, Hua Ye, Proteome constrained metabolic modeling of Sus scrofa muscle stem cells for cultured meat production, https://doi.org/10.1101/2025.09.30.679571
 ## Funding information
 This project was funded by Biotechnology and Biological Sciences Research Council of UK Research and Innovation (project ref. BB/Y007859/1).
 
